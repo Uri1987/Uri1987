@@ -22,5 +22,4 @@
 )
 ![linkedin](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&logoSize=auto&labelColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyury-yakubovich-288872321%2F
 )
-![gmail](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail&logoColor=%23EA4335&logoSize=auto&labelColor=white&link=pivovshkafu%40gmail.com
-)
+[![gmail](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail&logoColor=%23EA4335&logoSize=auto&labelColor=white)](pivovshkafu@gmail.com)
