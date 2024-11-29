@@ -18,8 +18,7 @@
 
 
 # Связь со мной:
-![telegram](https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=%2326A5E4&logoSize=auto&labelColor=white&link=https%3A%2F%2Ft.me%2Fpivovshkafu
-)
-![linkedin](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&logoSize=auto&labelColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyury-yakubovich-288872321%2F
-)
-[![gmail](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail&logoColor=%23EA4335&logoSize=auto&labelColor=white)](pivovshkafu@gmail.com)
+[![telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=%2326A5E4&logoSize=auto&labelColor=white
+)](https://t.me/pivovshkafu)
+[![linkedin](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&logoSize=auto&labelColor=white)](https://www.linkedin.com/in/yury-yakubovich-288872321/)
+
