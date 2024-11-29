@@ -9,15 +9,19 @@
 
 
 # Языки и программы:
+* ## Тестирование веб-приложений:
 ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoSize=auto
 )
+![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-black?style=for-the-badge&logo=googlechrome&logoColor=%234285F4&logoSize=auto&labelColor=white
+)
+* ## Работа с базами данных:
 ![Mysql](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=%234479A1&logoSize=auto&labelColor=D3D3D3
 )
 
 
 
 
-# Связь со мной:
+# :computer: Мои социальные сети:
 [![telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=%2326A5E4&logoSize=auto&labelColor=white
 )](https://t.me/pivovshkafu)
 [![linkedin](https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&logoSize=auto&labelColor=white)](https://www.linkedin.com/in/yury-yakubovich-288872321/)
