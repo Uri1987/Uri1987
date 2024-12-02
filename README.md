@@ -24,10 +24,7 @@
 * ## Работа с кодом:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![alt text](image.png)
-<div>
-<img scr="https://img.icons8.com/?size=100&id=y7WGoWNuIWac&format=png&color=000000" title="Visual Studio Code" alt="Visual Studio Code" width="40" heith="40"/>&nbsp
-</div>
+
 
 # :computer: Связь со мной:
 [![telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=%2326A5E4&logoSize=auto&labelColor=white
